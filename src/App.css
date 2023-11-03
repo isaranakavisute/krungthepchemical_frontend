@@ -1,0 +1,17 @@
+body {
+  font-family: 'Jost', Noto Sans Thai;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+/* Style the scrollbar track */
+::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+}
+
+/* Style the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #737373; /* Color of the thumb */
+  border-radius: 6px; /* Rounded corners for the thumb */
+}
+
